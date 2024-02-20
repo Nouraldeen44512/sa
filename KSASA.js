@@ -39,7 +39,7 @@ border-radius: 50px;
 box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.08), 0 0 5px #fff;
 }
 .nosel.d-flex.room.r18b77942262xd60fc227x-7r8t2s {
-    background-image: url(https://up6.cc/2024/02/170846326304131.jpg);
+    background-image: url(https://up6.cc/2024/02/1708466620711.jpg);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
