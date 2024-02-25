@@ -67,7 +67,7 @@ margin-left: -4px;
 var l_itvshihanh=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvshihanh);
-        $("#users .uzr:contains('ɢнzℓ αℓƒαιѕαℓ')").addClass('shihanh1');
+        $("#users .uzr:contains('ɢнzℓαℓƒαιѕαℓ')").addClass('shihanh1');
         $("#users .uzr.shihanh1 .fitimg.u-pic").append('<img class="shihanh_star1" src="https://up6.cc/2023/02/167579621323341.png">');
 		$("#users .uzr.shihanh1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.shihanh1 span.uhash, #users .uzr.shihanh1 img.co").hide(); 
