@@ -19,7 +19,7 @@ box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 10px rgb(0, 0, 0), 0 0 0 0px #
   padding: 1px !important;
   font-size: 89% !important;
   -webkit-text-fill-color: #0000;
-  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  background-image: url(https://up6.cc/2024/02/170890104159231.gif);
   color: transparent !important;
   background-size: 90% 100%;
 }
