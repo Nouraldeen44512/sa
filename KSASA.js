@@ -45,7 +45,7 @@ border: 1px solid #efc33d;
 margin-bottom: 3px !important;
 margin-top: 2px !important;
 border-radius: 4px;
-background-image: url(https://up6.cc/2024/02/170890013596941.png);
+background-image: url(https://up6.cc/2024/02/170890162509251.gif);
 background-size: cover;
 box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 0px #000;
 }
@@ -71,7 +71,7 @@ var l_itvngem=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvngem);
         $("#users .uzr:contains('نَغــــــــــــــــم')").addClass('ngem1');
-        $("#users .uzr.ngem1 .fitimg.u-pic").append('<img class="ngem_star1" src="https://up6.cc/2024/02/170890024321641.gif">');
+        $("#users .uzr.ngem1 .fitimg.u-pic").append('<img class="ngem_star1" src="https://up6.cc/2024/02/170890176497841.gif">');
 		$("#users .uzr.ngem1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.ngem1 span.uhash, #users .uzr.ngem1 img.co").hide(); 
         $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
