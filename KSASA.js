@@ -37,7 +37,7 @@ z-index: 0 !important;
   margin-top: -60px !important;
   margin-right: 282px;
 }
-#users .uzr.saad1 {
+#users .uzr.shihanh1 {
 border: 1px solid #efc33d;
 margin-bottom: 3px !important;
 margin-top: 2px !important;
