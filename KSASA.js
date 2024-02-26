@@ -137,7 +137,7 @@ border: 1px solid #efc33d;
 margin-bottom: 3px !important;
 margin-top: 2px !important;
 border-radius: 4px;
-background-image: url(https://up6.cc/2024/02/170891531077271.gif);
+background-image: url(https://up6.cc/2024/02/17089162028981.gif);
 background-size: cover;
 box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 0px #000;
 }
