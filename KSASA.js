@@ -37,13 +37,14 @@ z-index: 0 !important;
   margin-top: -60px !important;
   margin-right: 282px;
 }
-#users .uzr.shihanh1 {
-  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
-  margin-bottom: 3px !important;
-  margin-top: 2px !important;
-  border-radius: 4px;
-  background-size: cover;
-  border: 1px solid #fff;
+#users .uzr.saad1 {
+border: 1px solid #efc33d;
+margin-bottom: 3px !important;
+margin-top: 2px !important;
+border-radius: 4px;
+background-image: url(https://up6.cc/2024/02/170890980140031.gif);
+background-size: cover;
+box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 0px #000;
 }
 #users .uzr.shihanh1 .c-flex.fr {
   margin-left: -4px!important;
