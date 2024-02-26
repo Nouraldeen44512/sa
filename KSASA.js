@@ -64,33 +64,7 @@ margin-left: -4px;
 }
 
 
-`);
-var l_itvshihanh=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvshihanh);
-        $("#users .uzr:contains('ɢнzℓ')").addClass('shihanh1');
-        $("#users .uzr.shihanh1 .fitimg.u-pic").append('<img class="shihanh_star1" src="https://up6.cc/2023/02/167579621323341.png">');
-	$("#users .uzr.ghzl1 .c-flex.fr").append('<img class="My_tsor" src="https://i.ibb.co/ThKHx1N/image.png">');
-	$("#users .uzr.shihanh1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
-        $("#users .uzr.shihanh1 span.uhash, #users .uzr.shihanh1 img.co").hide(); 
-        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
-        $("div#users .uzr.shihanh1 .My_vedio1").click(function(){
-        $("#movon1").show();
-        $('#movon1').addClass('athb1');
-        $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
-        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
-        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/ubts5AU4kWA" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-        $("#ifr_mov1").show(function(){
-        $("#upro").modal("hide");
-    } ); 
-});
-    }
-}, 10000);
-
-
-
-
-$("style").last().append(`
+`);var l_itvshihanh=setInterval(function(){null!=myid&&(clearInterval(l_itvshihanh),$("#users .uzr:contains('\u0262\u043Dz\u2113')").addClass("shihanh1"),$("#users .uzr.shihanh1 .fitimg.u-pic").append("<img class=\"shihanh_star1\" src=\"https://up6.cc/2023/02/167579621323341.png\">"),$("#users .uzr.ghzl1 .c-flex.fr").append("<img class=\"My_tsor\" src=\"https://i.ibb.co/ThKHx1N/image.png\">"),$("#users .uzr.shihanh1 span.u-topic").after("<img id=\"mystory1\" class=\"My_vedio1\" title=\"\u0633\u062A\u0648\u0631\u064A\" style=\"float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;\" src=\"https://i.ibb.co/47VS4nY/image.png\">"),$("#users .uzr.shihanh1 span.uhash, #users .uzr.shihanh1 img.co").hide(),$("#upro").before("<div id=\"movon1\" onclick=\"$(this).hide().html(``);\" class=\"moveon1\" style=\"display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);\">"),$("div#users .uzr.shihanh1 .My_vedio1").click(function(){$("#movon1").show(),$("#movon1").addClass("athb1"),$("#movon1").before("<div class=\"modal-dialog fr break\" style=\"height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;\"></div>"),$("#movon1").append("<div style=\"max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;\" class=\"modal-header label-primary\"><span class=\"pull-right clickable badge\"><i class=\"fa fa-times\"></i></span><label style=\"margin:1px; float: right;\" > My vedio </label></div>"),$("#movon1").append("<iframe id=\"ifr_mov1\" style=\"max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;\" class=\"modal in\" role=\"dialog\" style=\"z-index: 2100; display: none; style=\"max-width:240px;\" src=\"https://www.youtube.com/embed/ubts5AU4kWA\" allowfullscreen=\"\" width=\"338\" height=\"490\" frameborder=\"0\"></iframe>"),$("#ifr_mov1").show(function(){$("#upro").modal("hide")})}))},1e4);$("style").last().append(`
 #users .uzr.frgatk1 .fitimg.u-pic {
   border-radius: 100px !important;
   margin-top: 9px !important;
@@ -169,38 +143,4 @@ box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 
   margin-right: 5px;
   cursor: pointer;
 }
-`);
-var me_user1=setInterval(function(){
-    if(myid!=null){
-        clearInterval(me_user1);
-        $("#users .uzr:contains('فرجإتك')").addClass('frgatk1');
-        $("#users .uzr.frgatk1 .c-flex.fr").append('<img class="My_star1" src="https://up6.cc/2024/02/170891465338531.gif">');
-	$("#users .uzr.frgatk1 .c-flex.fr").append('<img class="My_tsor" src="https://i.ibb.co/ThKHx1N/image.png">');
-	$("#users .uzr span.u-topic:contains('93B')").after('<img id="mystory1" class="My_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
-    
-        $("#users .uzr.frgatk1 span.uhash, #users .uzr.frgatk1 img.co").hide(); 
-
-
-        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
-        
-        
-        
-        $("div#users .uzr:contains('فرجإتك') .My_vedio1").click(function(){
-        $("#movon1").show();
-        
-        $('#movon1').addClass('frgatk1');
-        $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
-        
-        
-        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
-          
-		  
-        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/svA75h-GX68" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-        
-       $("#ifr_mov1").show(function(){
-        $("#upro").modal("hide");
-    } ); 
-});
-    }
-}, 10000);
-
+`);var me_user1=setInterval(function(){null!=myid&&(clearInterval(me_user1),$("#users .uzr:contains('\u0641\u0631\u062C\u0625\u062A\u0643')").addClass("frgatk1"),$("#users .uzr.frgatk1 .c-flex.fr").append("<img class=\"My_star1\" src=\"https://up6.cc/2024/02/170891465338531.gif\">"),$("#users .uzr.frgatk1 .c-flex.fr").append("<img class=\"My_tsor\" src=\"https://i.ibb.co/ThKHx1N/image.png\">"),$("#users .uzr span.u-topic:contains('93B')").after("<img id=\"mystory1\" class=\"My_vedio1\" title=\"\u0633\u062A\u0648\u0631\u064A\" src=\"https://i.ibb.co/47VS4nY/image.png\">"),$("#users .uzr.frgatk1 span.uhash, #users .uzr.frgatk1 img.co").hide(),$("#upro").before("<div id=\"movon1\" onclick=\"$(this).hide().html(``);\" class=\"moveon1\" style=\"display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);\">"),$("div#users .uzr:contains('\u0641\u0631\u062C\u0625\u062A\u0643') .My_vedio1").click(function(){$("#movon1").show(),$("#movon1").addClass("frgatk1"),$("#movon1").before("<div class=\"modal-dialog fr break\" style=\"height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;\"></div>"),$("#movon1").append("<div style=\"max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;\" class=\"modal-header label-primary\"><span class=\"pull-right clickable badge\"><i class=\"fa fa-times\"></i></span><label style=\"margin:1px; float: right;\" > My vedio </label></div>"),$("#movon1").append("<iframe id=\"ifr_mov1\" style=\"max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;\" class=\"modal in\" role=\"dialog\" style=\"z-index: 2100; display: none; style=\"max-width:240px;\" src=\"https://www.youtube.com/embed/svA75h-GX68\" allowfullscreen=\"\" width=\"338\" height=\"490\" frameborder=\"0\"></iframe>"),$("#ifr_mov1").show(function(){$("#upro").modal("hide")})}))},1e4);
