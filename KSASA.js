@@ -70,7 +70,7 @@ box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 
   z-index: 0;
   margin-left: 36px;
 }
-#users .uzr.tnahed1 .My_vedio1 {
+#users .uzr.tnahed1 .tnahed_1 {
   float: right;
   width: 20px;
   margin-top: 0px;
@@ -78,9 +78,9 @@ box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 
   cursor: pointer;
 }
 `);
-var me_user2=setInterval(function(){
+var 1_tnahed=setInterval(function(){
     if(myid!=null){
-        clearInterval(me_user2);
+        clearInterval(1_tnahed);
         $("#users .uzr:contains('تنإهُيد')").addClass('tnahed1');
         $("#users .uzr.tnahed1 .c-flex.fr").append('<img class="My_star1" src="https://up6.cc/2024/02/170891465338531.gif">');
 	      $("#users .uzr span.u-topic:contains('تنإهُيد')").after('<img id="mystory1" class="My_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
