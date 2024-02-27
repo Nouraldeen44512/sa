@@ -71,47 +71,34 @@ box-shadow: 0 0 0px rgb(255, 255, 255), inset 0 0 5px rgb(255, 255, 255), 0 0 0 
   margin-left: 36px;
 }
 #users .uzr.tnahed1 .tnahed_star1 {
-  float: right;
-  width: 20px;
-  margin-top: 0px;
-  margin-right: 5px;
-  cursor: pointer;
+width: 66px;
+margin-top: -6px;
+height: 66px;
+margin-left: -5px;
 }
+
+
 `);
-l_itvtnahed=setInterval(function(){
+var l_itvtnahed=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvtnahed);
         $("#users .uzr:contains('تنإهُيد')").addClass('tnahed1');
-        $("#users .uzr.tnahed1 .c-flex.fr").append('<img class="tnahed_star1" src="https://up6.cc/2024/02/170891465338531.gif">');
-	      $("#users .uzr span.u-topic:contains('تنإهُيد')").after('<img id="mystory1" class="My_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
-    
+        $("#users .uzr.tnahed1 .fitimg.u-pic").append('<img class="tnahed_star1" src="https://up6.cc/2023/02/167579486894821.png">');
+		$("#users .uzr.tnahed1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.tnahed1 span.uhash, #users .uzr.tnahed1 img.co").hide(); 
-
-
-        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
-        
-        
-        
-        $("div#users .uzr:contains('تنإهُيد') .My_vedio1").click(function(){
+        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
+        $("div#users .uzr.tnahed1 .My_vedio1").click(function(){
         $("#movon1").show();
-        
         $('#movon1').addClass('tnahed1');
         $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
-        
-        
-        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');
-          
-		  
-        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/svA75h-GX68" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
-        
-       $("#ifr_mov1").show(function(){
+        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
+        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/xPujFVqw43c" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
 });
     }
 }, 10000);
-
-
 
 $("style").last().append(`
 #users .uzr.shihanh1 .fitimg.u-pic {
