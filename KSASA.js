@@ -110,24 +110,6 @@ var me_user1=setInterval(function(){
 });
     }
 }, 10000);
-Compress JavaScript
-About JSCompress
-
-JSCompress is an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size. Copy and paste your code or you can upload and combine multiple files and then compress. We use UglifyJS 3 and babel-minify for all JavaScript minification and compression.
-
-Why You Should Compress JavaScript
-
-There are a number of reasons why compressing your JavaScript files is a good idea:
-
-Quicker download times for your users.
-Reduced bandwidth consumption of your website.
-Reduced number of HTTP requests on your server when combining many JavaScript files into one compressed file, thus reducing the server load and allowing more visitors to access your website.
-Comments and whitespace are not needed for JavaScript execution; Removing them will reduce file size and speed up script execution times.
-Credits & Source
-
-Maintained by CircleCell. You can grab the JSCompress.com source code from GitHub here.
-
-© 2024 JSCompress.com — Advertise Here — Privacy
 
 
 
