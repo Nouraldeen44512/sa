@@ -69,6 +69,7 @@ var l_itvaiah=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvaiah);
       $("#users .uzr:contains('تنإهُيد')").addClass('aiah1');
+        $("#users .uzr.aiah1 .c-flex.fr").append('<img class="aiah_star1" src="https://up6.cc/2024/02/170899907986361.gif">');
 		
         $("#users .uzr span.u-topic:contains('aiah1')").after('<img id="mystory1" class="My_vedio1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
     
