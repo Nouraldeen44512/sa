@@ -37,7 +37,7 @@ z-index: 0 !important;
   margin-top: -60px !important;
   margin-right: 282px;
 }
-#users .uzr.frgatk1 {
+#users .uzr.aiah1 {
 border: 1px solid #b77c9a;
 margin-bottom: 3px !important;
 margin-top: 2px !important;
